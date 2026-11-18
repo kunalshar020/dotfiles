@@ -26,6 +26,7 @@ path=(
   /Applications/CMake.app/Contents/bin
   $HOME/.local/bin
   $HOME/go/bin
+  $HOME/.cargo/bin
   $path
 )
 
